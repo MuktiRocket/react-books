@@ -1,3 +1,16 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "Pathaan",
+      "id": 1
+    },
+    {
+      "title": "War",
+      "id": 2
+    },
+    {
+      "title": "Ek Tha Tiger",
+      "id": 3
+    }
+  ]
 }
